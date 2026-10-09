@@ -1,4 +1,4 @@
-# Check EDI Cargoport
+# CHECK EDI CARGOPORT
 
 หน้าเว็บตรวจเอกสารขาเข้าเรือ: เทียบ **MANIFEST** (สายเรือ, `.xls`/`.xlsx`) กับ **ENTER** (แบบฟอร์ม AMENDMENT ของ Cargoport, `.pdf`) ก่อนทำใบขนสินค้าขาเข้า แล้วดาวน์โหลดรายงาน `EDI.xlsx`
 
